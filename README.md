@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./Vader.gif" alt="Vader" width="100%" />
-  <img src="./VaderHallway.gif" alt="Vader Hallway" width="100%" />
+  <img src="./HelloThere.gif" alt="Obi-Wan Hello There" width="100%" />
 </p>
 
 <!---
